@@ -12,6 +12,5 @@ end
 
 def using_pop(continent)
   continent  = ["Africa", "Asia", "NorthA", "SouthA", "Europe", "Australia", "Antarctica"]
-   ouch = continent.pop
-  p continent
-end
+   deleted_string = continent.pop
+  end
